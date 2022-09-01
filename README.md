@@ -4,4 +4,4 @@
 
 Interested in Clinical Trials, Survival Analysis Studies, Statistical Genomics and, Spatial Statistics and Disease Mapping in Oncology.
 
-Checkout my brief CV on https://github.com/koechandy/vitae/CV.pdf
+Checkout my brief CV on https://github.com/koechandy/vitae/blob/main/CV.pdf
