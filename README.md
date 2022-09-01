@@ -1,4 +1,4 @@
-### Hi there! :wave:| Hallo! | Ahoj! | Hei siellä| Hej! | 
+### Hi there! :wave:
 
 ## I am currently a Biostatistics masters fellow at the University of Bremen.
 
